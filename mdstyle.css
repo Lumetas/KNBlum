@@ -1,0 +1,105 @@
+a{
+text-decoration:none;
+color: #0969da;
+}
+body {
+  background-color:white;
+  padding:50px 50px;
+  margin: 0;
+  font-size:14px;
+      line-height: 1.5;
+}
+
+pre {
+  background-color:#eee;
+  overflow:auto;
+  margin:0 0 1em;
+  padding:.5em 1em;
+}
+
+pre code, pre .line-number {
+  font:normal normal 12px/14px "Courier New",Courier,Monospace;
+  color:black;
+  display:block;
+}
+
+pre .line-number {
+  float:left;
+  margin:0 1em 0 -1em;
+  border-right:1px solid;
+  text-align:right;
+}
+
+pre .line-number span {
+  display:block;
+  padding:0 .5em 0 1em;
+}
+
+pre .cl {
+  display:block;
+  clear:both;
+}
+blockquote{
+border-left: 5px solid #d0d7de;
+padding-left:10px;
+padding: 0 1em;
+    margin-top: 0;
+	margin: 0;
+    margin-bottom: 16px;
+color: grey;
+}
+table {
+	width: 100%;
+	margin-bottom: 20px;
+	border: 5px solid #fff;
+	border-top: 5px solid #fff;
+	border-bottom: 3px solid #fff;
+	border-collapse: collapse; 
+	outline: 3px solid grey;
+	font-size: 15px;
+	background: #fff!important;
+}
+table th {
+	font-weight: bold;
+	padding: 7px;
+	background: grey;
+	border: none;
+	text-align: left;
+	font-size: 15px;
+	border-top: 3px solid #fff;
+	border-bottom: 3px solid grey;
+}
+table td {
+	padding: 7px;
+	border: none;
+	border-top: 3px solid #fff;
+	border-bottom: 3px solid #fff;
+	font-size: 15px;
+}
+table tbody tr:nth-child(even){
+	background: #f8f8f8!important;
+}
+h1{
+    margin-top: 24px;
+    margin-bottom: 16px;
+    font-weight: 600;
+    line-height: 1.25;
+	font-size: 32px;
+    font-weight: 600;
+	border-bottom: 1px solid #d8dee4;
+	padding-bottom: 0.3em;
+
+}
+h2{
+
+    margin-top: 24px;
+    margin-bottom: 16px;
+    font-weight: 600;
+    line-height: 1.25;
+	font-size: 32px;
+    font-weight: 600;
+	border-bottom: 1px solid #d8dee4;
+	padding-bottom: 0.3em;
+
+
+}
